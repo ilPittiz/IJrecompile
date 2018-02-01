@@ -4,7 +4,7 @@ class DemoService extends BaseService {
 
     def wrapString(String txt) {
 		BaseWrapper wrap = wrap(txt)
-		println 's'
+		println 'edit me'
 		return wrap.txt
     }
 }
